@@ -1,5 +1,3 @@
-# Compose Multiplatform Application
+# AutoDiary web application
 
-### Wasm Browser (Alpha)
-Run the browser application: `./gradlew :composeApp:wasmJsBrowserDevelopmentRun --continue`
-Run browser UI tests: `./gradlew :composeApp:wasmJsBrowserTest`
+https://devdebajo.github.io/autodiary-web
