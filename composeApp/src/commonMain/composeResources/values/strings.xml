@@ -1,0 +1,9 @@
+<resources>
+    <string name="title">АвтоДневник</string>
+    <string name="subtitle">Ваш личный журнал ухода за автомобилем</string>
+    <string name="app_screenshot_1_description">Пробег, расходы и напоминания — всё, что нужно, на одном экране</string>
+    <string name="app_screenshot_2_description">Фиксируйте пробег и отслеживайте динамику — удобно, наглядно, точно</string>
+    <string name="app_screenshot_3_description">Знайте, куда уходят деньги на авто. Удобный учёт всех расходов</string>
+    <string name="app_screenshot_4_description">Ведите заметки о ремонтах и обслуживании. Устанавливайте напоминания о ТО, страховке и важных событиях</string>
+    <string name="app_screenshot_5_description">Вся история обслуживания в одном месте. Ничего не забудете</string>
+</resources>

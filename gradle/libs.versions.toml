@@ -1,0 +1,19 @@
+[versions]
+
+kotlin = "2.1.20"
+compose = "1.8.0-beta01"
+kotlinx-coroutines = "1.10.1"
+coil = "3.1.0"
+
+[libraries]
+
+kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinx-coroutines" }
+coil = { module = "io.coil-kt.coil3:coil-compose-core", version.ref = "coil" }
+coil-svg = { module = "io.coil-kt.coil3:coil-svg", version.ref = "coil" }
+coil-network-ktor = { module = "io.coil-kt.coil3:coil-network-ktor3", version.ref = "coil" }
+
+[plugins]
+
+multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+compose-compiler = { id = "org.jetbrains.kotlin.plugin.compose", version.ref = "kotlin" }
+compose = { id = "org.jetbrains.compose", version.ref = "compose" }
